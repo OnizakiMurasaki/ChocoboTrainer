@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QDo5mSdrI/s=",
+  "success": true,
+  "projectFilePath": "D:\\开发文件\\ChocoboTrainer\\ChocoboTrainer\\ChocoboTrainer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\59849\\.nuget\\packages\\dalamudpackager\\15.0.0\\dalamudpackager.15.0.0.nupkg.sha512",
+    "C:\\Users\\59849\\.nuget\\packages\\dotnet.reproduciblebuilds\\1.2.39\\dotnet.reproduciblebuilds.1.2.39.nupkg.sha512"
+  ],
+  "logs": []
+}

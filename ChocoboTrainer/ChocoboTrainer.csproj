@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+
+  <PropertyGroup>
+
+    <Version>0.0.1</Version>
+
+    <Author>Onizaki</Author>
+
+    <Name>Chocobo Trainer</Name>
+
+    <Punchline>选择饲料，在驯鸟师附近，自动完成竞赛陆行鸟训练。</Punchline>
+
+    <Description>自动完成竞赛陆行鸟训练流程，支持选择训练饲料并后台运行，无需模拟鼠标或键盘操作。</Description>
+
+    <Tags>chocobo;automation;utility</Tags>
+
+    <AssemblyName>ChocoboTrainer</AssemblyName>
+
+    <RootNamespace>ChocoboTrainer</RootNamespace>
+
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+
+  </PropertyGroup>
+
+
+  <ItemGroup>
+
+    <Content Include="..\Data\goat.png">
+
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+
+      <Visible>false</Visible>
+
+    </Content>
+
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+D:\开发文件\ChocoboTrainer\ChocoboTrainer\bin\Debug\goat.png
+D:\开发文件\ChocoboTrainer\ChocoboTrainer\bin\Debug\ChocoboTrainer.deps.json
+D:\开发文件\ChocoboTrainer\ChocoboTrainer\bin\Debug\ChocoboTrainer.dll
+D:\开发文件\ChocoboTrainer\ChocoboTrainer\obj\Debug\ChocoboTrainer.csproj.AssemblyReference.cache
+D:\开发文件\ChocoboTrainer\ChocoboTrainer\obj\Debug\ChocoboTrainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\开发文件\ChocoboTrainer\ChocoboTrainer\obj\Debug\ChocoboTrainer.AssemblyInfoInputs.cache
+D:\开发文件\ChocoboTrainer\ChocoboTrainer\obj\Debug\ChocoboTrainer.AssemblyInfo.cs
+D:\开发文件\ChocoboTrainer\ChocoboTrainer\obj\Debug\ChocoboTrainer.csproj.CoreCompileInputs.cache
+D:\开发文件\ChocoboTrainer\ChocoboTrainer\obj\Debug\ChocoboTrainer.dll
