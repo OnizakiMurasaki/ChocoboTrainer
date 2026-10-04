@@ -38,17 +38,6 @@
 - `/ctrain config` 或 `/ctrain settings`：打开设置。
 - `/ctrain status`：打开主窗口。
 
-## 构建
-
-项目使用 Dalamud API 15。
-
-在本项目的国服开发环境中，可使用：
-
-```powershell
-$env:DALAMUD_HOME = "$env:APPDATA\XIVLauncherCN\addon\Hooks\dev"
-dotnet build ".\ChocoboTrainer\ChocoboTrainer.csproj" -c Release
-```
-
 ## AI 辅助开发说明
 
 本项目在开发过程中使用了 OpenAI ChatGPT 进行辅助。
