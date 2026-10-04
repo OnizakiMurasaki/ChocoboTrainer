@@ -4,6 +4,14 @@
 
 目前主要在国服 / XIVLauncherCN 环境下开发与测试。
 
+## 自定义插件仓库
+
+在 XIVLauncherCN 的“自定义插件仓库”中添加以下地址：
+
+```text
+https://raw.githubusercontent.com/OnizakiMurasaki/ChocoboTrainer/main/pluginmaster.json
+```
+
 ## 功能
 
 - 在驯鸟师附近自动开始竞赛陆行鸟训练。
