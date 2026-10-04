@@ -6,7 +6,7 @@
 
 ## 自定义插件仓库
 
-在 XIVLauncherCN 的“自定义插件仓库”中添加以下地址：
+仓库地址：
 
 ```text
 https://raw.githubusercontent.com/OnizakiMurasaki/ChocoboTrainer/main/pluginmaster.json
@@ -57,4 +57,3 @@ AI 主要用于代码实现、API 调研、调试及文档整理；插件功能�
 ## 免责声明
 
 这是第三方插件，与 Square Enix、Dalamud、XIVLauncherCN 官方无关联。请自行评估并承担使用第三方插件可能带来的风险。
-
