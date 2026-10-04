@@ -58,6 +58,3 @@ AI 主要用于代码实现、API 调研、调试及文档整理；插件功能�
 
 这是第三方插件，与 Square Enix、Dalamud、XIVLauncherCN 官方无关联。请自行评估并承担使用第三方插件可能带来的风险。
 
-## License
-
-见 [LICENSE.md](LICENSE.md)。
