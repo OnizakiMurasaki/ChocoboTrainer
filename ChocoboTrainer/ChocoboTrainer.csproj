@@ -8,6 +8,8 @@
     <Punchline>选择饲料，在驯鸟师附近，自动完成竞赛陆行鸟训练。</Punchline>
     <Description>自动完成竞赛陆行鸟训练流程，支持选择训练饲料、属性停止值、防止属性溢出和循环训练。</Description>
     <Tags>chocobo;automation;utility</Tags>
+    <RepoUrl>https://github.com/OnizakiMurasaki/ChocoboTrainer</RepoUrl>
+    <IconUrl>https://raw.githubusercontent.com/OnizakiMurasaki/ChocoboTrainer/main/icon.png</IconUrl>
     <AssemblyName>ChocoboTrainer</AssemblyName>
     <RootNamespace>ChocoboTrainer</RootNamespace>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
