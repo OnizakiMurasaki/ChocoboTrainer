@@ -1,9 +1,3 @@
-# Chocobo Trainer
-
-用于《最终幻想 XIV》竞赛陆行鸟训练流程的 Dalamud 插件。
-
-目前主要在国服 / XIVLauncherCN 环境下开发与测试。
-
 ## 自定义插件仓库
 
 仓库地址：
